@@ -1,0 +1,49 @@
+.Div2 {
+  max-width: 450px;
+  width: 100%;
+  margin: auto;
+}
+.ChangeDiv {
+  margin-bottom: 25px;
+  height: 60px;
+  width: 100%;
+  max-width: 400px;
+  border-radius: 1rem;
+  background: linear-gradient(to top right, #996633 0%, #00cc99 100%);
+}
+.ShidaDivi {
+  max-width: 550px;
+  min-height: 180px;
+  width: 100%;
+  background: linear-gradient(to bottom left, #ffcc00 0%, #00ff99 80%);
+}
+.ChangeDiv.ShidaDivi .h2Last {
+  display: none;
+}
+.ChangeDiv.ShidaDivi .h3Last {
+  display: none;
+}
+.h4last {
+  display: none;
+}
+.ChangeDiv.ShidaDivi .h4last {
+  display: block;
+  text-align: center;
+  padding-top: 40px;
+  font-size: 1.3rem;
+  color: rgb(121, 82, 59);
+  font-weight: 900;
+}
+.h2Last {
+    text-align: center;
+    font-size: 1.1rem;
+    font-weight: 800;
+    color:  rgb(199, 53, 131);
+}
+.h3Last {
+    text-align: center;
+    font-size: 1.1rem;
+    font-weight: 800;
+    color:  rgb(78, 21, 80);
+    padding-top: 10px;
+}
